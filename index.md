@@ -2,125 +2,38 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+## Projects
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+### Triplet-Reid @ Computer Vision Institut RWTH Aachen:  
+Experimenting with triplet loss for Re-Identification. 
+Supervised by Lucas Beyer, Alexander Hermans and Stefan Breuers.
+[Project on Github](https://github.com/kilsen512/triplet-reid-pytorch)
+### Participation at DAC System Design Contest 2018 @ ICE RWTH Aachen:  
+Working on algorithm side using the
+[object detection framework](https://github.com/tensorflow/models/tree/master/research/object_detection) by Google.
+### Slack Application Framework @ Microsoft Japan:  
+A C# server that is capable of dynamically including Plugins to handle Slack commands. 
+Supports /slashcommands, buttons and dropdown menus.
+### GestaMemory @ Tohoku University Japan:  
+A memory game designed to collect gesture samples in-the-wild.
+Using [R3DCNN](https://github.com/kilsen512/R3DCNN-tensorflow) to recognize gestures.
+Also [checkout this Video](https://drive.google.com/file/d/0B_Gg7qE5THc7WEg1b2h5d2FHQ2c/view?usp=sharing).
+### Bachelor Thesis @ ICE RWTH Aachen  
+Design of an Application Specific Instruction Processor (ASIP) for a
+[hybrid beamforming algorithm](https://ieeexplore.ieee.org/abstract/document/7504275/).
+Work was presented in part at ChipEx 2017 by Markus Willems (Synopys).
+Supervised by Juan Eusse and Andreas Bytyn.
 
 * * *
 
-### Here is an unordered list:
+## Contact
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* kilian [DOT] pfeiffer [AT] rwth [HYPHEN] aachen [DOT] de
+* [LinkedIn](https://www.linkedin.com/in/kilian-pfeiffer/)
+* [Github](https://www.github.com/kilsen512/)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
 
 
 
