@@ -2,13 +2,17 @@
 layout: default
 ---
 # Kilian Yutaka Pfeiffer
+## Work experience
+### (05/2019 - 09/2019) @ Bosch Corporate Research
+Worked on 2.5D object detection for indoor robotics (2D + Depth estimation).
+
 ## Scientific Work
-### (10/2017 - Today) @ Computer Vision Institute RWTH Aachen
+### (10/2017 - 05/2019) @ Computer Vision Institute RWTH Aachen
 Experimenting with triplet loss for Re-Identification. 
 Supervised by Lucas Beyer, Alexander Hermans and Stefan Breuers.
 [Project on Github](https://github.com/kilsen512/triplet-reid-pytorch)
 
-Currently working on Master Thesis.
+Master thesis on the topic of "Multi-aspect embedding learning for person Re-Identification?"
 ### (10/2017 - 04/2018) @ Human Language Technology and Pattern Recognition Group RWTH Aachen
 Worked on Automatic Speech Recognition with RETURNN. Partially implemented experiments to replace CART labels.
 Supervised by Albert Zeyer.
@@ -34,6 +38,10 @@ Supervised by Juan Eusse and Andreas Bytyn
 ### Research Assistant @ Institute for Communication Technologies Embedded Systems (ICE) RWTH Aachen
 
 Extended profiling tool for Application Specific Instruction Processors (ASIP) to support vector instructions.
+
+## Publications
+- [Visual Person Understanding through Multi-Task and Multi-Dataset Learning (GCPR 2019)](https://arxiv.org/abs/1906.03019)
+
 
 ## Projects
 ### T-Rex Game 
