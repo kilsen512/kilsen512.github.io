@@ -7,7 +7,10 @@ layout: default
 Worked on 2.5D object detection for indoor robotics (2D + Depth estimation).
 
 ## Scientific Work
-### (10/2017 - 05/2019) @ Computer Vision Institute RWTH Aachen
+### (10/2018 - 05/2019) @ Computer Vision Institute RWTH Aachen
+Master thesis "Multi-aspect embedding learning for person Re-Identification".
+[Link](https://kilsenp.github.io/thesis.pdf)
+### (10/2017 - 09/2018) @ Computer Vision Institute RWTH Aachen
 Experimenting with triplet loss for Re-Identification. 
 Supervised by Lucas Beyer, Alexander Hermans and Stefan Breuers.
 [Project on Github](https://github.com/kilsen512/triplet-reid-pytorch)
