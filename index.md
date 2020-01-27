@@ -9,7 +9,7 @@ Worked on 2.5D object detection for indoor robotics (2D + Depth estimation).
 ## Scientific Work
 ### (10/2018 - 05/2019) @ Computer Vision Institute RWTH Aachen
 Master thesis "Multi-aspect embedding learning for person Re-Identification".
-[Link](https://kilsenp.github.io/thesis.pdf)
+[Link to thesis](https://kilsenp.github.io/kilian_pfeiffer_master_thesis.pdf) (Please contact me for password)
 ### (10/2017 - 09/2018) @ Computer Vision Institute RWTH Aachen
 Experimenting with triplet loss for Re-Identification. 
 Supervised by Lucas Beyer, Alexander Hermans and Stefan Breuers.
@@ -37,6 +37,7 @@ The ASIP was capable of executing around 1000 algorithm iterations per seconds a
 The base design running an unoptimized version of the algorithm was capable of executing less than 2 iterations per second.
 Work was presented in part at ChipEx 2017 by Markus Willems (Synopys).
 Supervised by Juan Eusse and Andreas Bytyn
+[Link to thesis](https://kilsenp.github.io/kilian_pfeiffer_bachelor_thesis.pdf) (Please contact me for password)
 
 ### Research Assistant @ Institute for Communication Technologies Embedded Systems (ICE) RWTH Aachen
 
